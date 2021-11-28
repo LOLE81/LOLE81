@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="80%" height = "250px" src="./Perris.jpg" alt="cover"/>
+  <img width="80%" height = "200px" src="./Perris.jpg" alt="cover"/>
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ Git - Babel - Webpack - TypeScript
 
 
 <div>
-   <a href="mailto:martinezpm@gmail.com"><img width = "5%" height = "5%" src="./Logos/Gmail.png" alt="Gmail Logo"/></a>
+   <a href="mailto:martinezpm@gmail.com"><img width ="7%" height ="7%" src="./Logos/Gmail.png" alt="Gmail Logo"/></a>
    <a href="https://wa.link/x3n03h"><img src="./Logos/whatsapp-logo-4-1.png" alt="WA Logo" ></a>
    <a href="https://www.linkedin.com/in/pablomartinez-js"><img width = "50px" height = "50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo"></a>
     <a href="https://twitter.com/LOLE81PM"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter Logo"/></a>
