@@ -9,9 +9,10 @@ Finding my way in this wonderful world of programming.
 And as you can see, I'm a dog lover 🐕
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-React - Redux - HTML - CSS <br/> 
-NodeJS - Express - PostgreSQL
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+JavaScript - HTML - CSS - React - Redux <br/>
+NodeJS - Express - PostgreSQL - Sequelize <br/>
+Git - Babel - Webpack - TypeScript
 
 <h2> Contact me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
