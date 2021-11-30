@@ -39,7 +39,7 @@ Git - Babel - Webpack - TypeScript
     <div>
       <img width="10%" height = "10%" src="./Captures/RocketPlay.jpeg"/>
     </div>
-    Work in progress... An app we are working in with my Henry's teammates as a final project.
+    Work in progress... An app we are working on with my Henry's teammates as a final project.
   </div>
 
 </div>
