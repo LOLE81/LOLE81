@@ -36,10 +36,21 @@ Git - Babel - Webpack - TypeScript
 
   <div>
     <h3>RocketPlay</h3>
-    <div>
+    App we are working in with my Henry's teammates as a final project.
+      <div display="flex">
       <img width="10%" height = "10%" src="./Captures/RocketPlay.jpeg"/>
+      </div>
+    🚀 Technologies used: 
+    React - Redux - NodeJS - Express - PostgreSQL - Sequelize - TypeScript
+    <div>
+      <img width="12%" height = "12%" src="./Captures/LandingRocket.png"/>
+      <img width="12%" height = "12%" src="./Captures/Login.png"/>
+      <img width="12%" height = "12%" src="./Captures/My workspace.png"/>
+      <img width="12%" height = "12%" src="./Captures/Menu.png"/>
+      <img width="12%" height = "12%" src="./Captures/Search1.png"/>
+      <img width="12%" height = "12%" src="./Captures/Videos.png"/>
+      <img width="12%" height = "12%" src="./Captures/Video.png"/>
     </div>
-    Work in progress... An app we are working in with my Henry's teammates as a final project.
   </div>
 
 </div>
