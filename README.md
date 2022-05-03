@@ -7,7 +7,7 @@
 
 ### Hi everyone 👋
 
-### My name is Pablo, but everybody calls me Lole! 
+### My name is Pablo, but everyone calls me Lole! 
 Finding my way in this wonderful world of programming.
 And as you can see, I'm a dog lover 🐕
 </div>
