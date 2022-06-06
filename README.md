@@ -12,13 +12,13 @@ Finding my way in this wonderful world of programming.
 And as you can see, I'm a dog lover 🐕
 </div>
 
-<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Languages and Tools <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px></h2>
+<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32> Languages and Tools <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32></h2>
 JavaScript - HTML - CSS - React - Redux <br/>
 NodeJS - Express - PostgreSQL - Sequelize <br/>
 Git - Babel - Webpack - TypeScript
 
 <div>
-  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Projects <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px></h2>
+  <h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32> Projects <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32></h2>
 
   <div>
     <h3>My Recipes Web App</h3>
@@ -55,7 +55,7 @@ Git - Babel - Webpack - TypeScript
 
 </div>
 
-<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> Contact me <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px></h2>
+<h2><img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32> Contact me <img src = "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32></h2>
 
 
 
